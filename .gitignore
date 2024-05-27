@@ -1,3 +1,11 @@
+# lab1
+labs/lab1/**/movies.csv
+labs/lab1/**/ratings.csv
+# lab2
+labs/lab2/original_data
+labs/lab2/experiment_tiny_data
+labs/lab2/experiment_small_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
