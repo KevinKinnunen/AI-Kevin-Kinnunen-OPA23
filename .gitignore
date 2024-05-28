@@ -2,9 +2,16 @@
 labs/lab1/**/movies.csv
 labs/lab1/**/ratings.csv
 # lab2
-labs/lab2/original_data
-labs/lab2/experiment_tiny_data
-labs/lab2/experiment_small_data
+labs/lab2/original_data/test/test
+labs/lab2/original_data/train/train
+
+labs/lab2/experiment_tiny_data/test
+labs/lab2/experiment_tiny_data/train
+labs/lab2/experiment_tiny_data/val
+
+labs/lab2/experiment_small_data/test
+labs/lab2/experiment_small_data/train
+labs/lab2/experiment_small_data/val
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
